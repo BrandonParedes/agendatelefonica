@@ -5,6 +5,29 @@ Agenda telefónica
 Agenda de contactos elaborada con framework Codeigniter (PHP)
 
 *******************
+QUERY BD
+*******************
+
+CREATE DATABASE `bdagenda` 
+
+CREATE TABLE `bdagenda`.`tb_contacto`(
+    `id` INT NOT NULL AUTO_INCREMENT,
+    `nombre` VARCHAR(25) NOT NULL,
+    `telefono` VARCHAR(15) NOT NULL,
+    `direccion` VARCHAR(25) NOT NULL,
+    `correo` VARCHAR(25) NOT NULL,
+    PRIMARY KEY(`id`)
+) ENGINE = INNODB;
+
+
+*******************
+URL PARA EJECUCIÓN
+*******************
+
+http://localhost/agendatelefonica/index.php/Contacto/nuevocontacto
+
+
+*******************
 Funcionalidades
 *******************
 
