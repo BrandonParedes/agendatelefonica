@@ -5,6 +5,13 @@ Agenda telefónica
 Agenda de contactos elaborada con framework Codeigniter (PHP)
 
 *******************
+REPOSITORIO
+*******************
+
+El nombre de la carpeta raíz debe ser:
+*agendatelefonica*
+
+*******************
 QUERY BD
 *******************
 
