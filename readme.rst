@@ -11,9 +11,9 @@ REPOSITORIO
 El nombre de la carpeta raíz debe ser:
 *agendatelefonica*
 
-*******************
-QUERY BD
-*******************
+******************************************
+QUERY BD o SCRIPT (Adjunto a los archivos)
+******************************************
 
 CREATE DATABASE `bdagenda` 
 
